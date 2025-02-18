@@ -16,16 +16,12 @@ Unify Virtual Assistant is a React-based (next.js) chatbot that helps users with
 
 ## Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js (v18 or higher)
 - npm (v6 or higher)
 
 ## Installation
 
-1. Clone the repository:
-   ```sh
-   - git clone git@github.com:kkalchake/go2ChatGpt.git
-   cd go2ChatGpt
-   ```
+1. Clone the repository
 
 2. Install the dependencies:
    ```sh
@@ -36,7 +32,7 @@ Unify Virtual Assistant is a React-based (next.js) chatbot that helps users with
 
 1. Start the development server:
    ```sh
-   npm start
+   npm run dev
    ```
 
 2. Open your browser and navigate to `http://localhost:3000` to see the application in action.
